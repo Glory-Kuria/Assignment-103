@@ -1,0 +1,9 @@
+#container{
+    border: dotted 1px green;
+
+    
+}
+#factory{border: solid 1px blue; 
+    padding: 20px;
+    margin: 5%;
+}
